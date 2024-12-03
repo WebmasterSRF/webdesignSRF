@@ -11,6 +11,7 @@
 <body>
     Test
     Hallo, das ist der Test von Paul
+    <input type="text" name="username" size="60"/>
 
     <?php 
     $var1 = 4;
